@@ -1,0 +1,114 @@
+header:
+  items:
+    - Home
+    - Service
+    - Sellers
+    - Process
+    - Contact
+    - Coaching
+    - Buyers
+hero:
+  header: We help your business with advice, finance and operational support.
+  list:
+    title: Successful entrepreneurship according to Barnsb
+    items:
+      - focus on the entrepreneur's personal goals
+      - customer focus as a core value for all employees
+      - sound financial policy as a condition
+  buttons:
+    - buyers
+    - sellers
+features:
+  title: We specialise in
+  subtitle: Service
+  items:
+    - refinancing
+    - management
+    - deployment of operational management
+    - professionalising sales process
+    - result-oriented HR policy
+    - purchasing or selling of companies
+    - management Buy-In and Buy-Out
+sellers:
+  title: A well-run company keeps its value!
+  subtitle: Sellers
+  image: Man next to graph
+  items:
+    - title: Buying and selling experience
+      content: >
+        Make use of years of buying and selling experience when you sell your company
+    - title: Proven network
+      content: >
+        Make use of a proven network of financiers
+    - title: Experience in your role
+      content: >
+        Share the burden with people who also have years of experience in your role
+    - title: Strict financial and commercial regime
+      content: >
+        Even before selling, take advantage of a strict financial and commercial regime
+    - title: No cure - No pay
+      content: >
+        You only pay when your company is actually sold
+  button: Contact
+buyers:
+  title: Barnsby has a portfolio of high-yielding companies
+  subtitle: Buyers
+  image: Man with coupon in hand
+  items:
+    - title: Diverse portfolio with various companies
+      content: >
+        Barnsby mediates for companies from different verticals, but all, within their segment, are highly profitable
+    - title: Well structured
+      content: >
+        While the Information Memorandum is being drawn up, the structure and management of the company offered for takeover is also examined
+    - title: No sales pitch
+      content: >
+        Barnsby lets the facts and figures speak for themselves without frills
+steps:
+  title: We take the following steps to help your organization
+  subtitle: Process
+  image: Man with notifications
+  items:
+    - title: Sales memorandum
+      content: >
+        A sales memorandum is drawn up, which is a good representation of the past,
+         the current condition and expected development of the company being sold
+    - title: Buyers wanted
+      content: >
+        Buyers are sought who are interested in taking over the whole
+        or part of the company and / or assets offered for sale
+    - title: Confidentiality Statement
+      content: >
+        A confidentiality agreement is drawn up and signed by the potential buyer
+    - title: Value optimization
+      content: >
+        The client is assisted to the fullest extent in the discussions with potential buyers
+        and the experts engaged by them
+    - title: Negotiate with buyers
+      content: >
+        The client is assisted to the fullest extent in the negotiations with potential buyers.
+        This with the explicit goal of achieving an optimal result for the client
+    - title: Capturing the agreements
+      content: >
+        Client is assisted to the fullest extent in capturing the agreements with the buyer in a deed of sale
+        and drawing up the accompanying documents
+coaching:
+  title: Coaching of entrepreneurs, directors and higher management
+  subtitle: Coaching
+  image: Man with sticky notes and chart
+  text: >
+    Barnsby's consultants have extensive experience in guiding management at all levels.
+    Barnsby brings extensive international experience with issues such as:
+  items:
+    - fast controlled growth
+    - sparring
+    - staff
+    - start new activities
+    - organization structure
+    - finance
+    - cost control
+contact:
+  title: This is how you can reach us
+  partners: Managing Partners
+  footer: |
+    Designed and developed by:

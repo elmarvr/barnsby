@@ -1,0 +1,114 @@
+header:
+  items:
+    - Home
+    - Dienstverlening
+    - Verkopers
+    - Werkwijze
+    - Contact
+    - Coaching
+    - Kopers
+hero:
+  header: Wij helpen uw onderneming met advies, financiering en operationele ondersteuning
+  list:
+    title: Succesvol ondernemen volgens Barnsby
+    items:
+      - focus op de persoonlijke doelen van de ondernemer
+      - klantgerichtheid als kernwaarde voor alle medewerkers
+      - gedegen financieel beleid als voorwaarde
+  buttons:
+    - kopers
+    - verkopers
+features:
+  title: Wij zijn gespecialiseerd in
+  subtitle: Dienstverlening
+  items:
+    - herfinanciering
+    - directievoering
+    - inzet operationeel management
+    - professionaliseren verkoopproces
+    - resultaatgericht HR beleid
+    - aan- of verkoop onderneming
+    - management Buy-In en Buy-Out
+sellers:
+  title: Juist nu houdt een goed geleide onderneming zijn waarde!
+  subtitle: Verkopers
+  image: Man naast grafiek
+  items:
+    - title: Aan- en verkoop ervaring
+      content: >
+        Maak gebruik van jarenlange aan- en verkoop ervaring wanneer u uw onderneming te koop zet
+    - title: Bewezen netwerk
+      content: >
+        Maak gebruik van een bewezen netwerk van financiers
+    - title: Ervaring in uw positie
+      content: >
+        Deel de last met mensen die ook jarenlange ervaring hebben in uw positie
+    - title: Strikt financieel en commercieel regime
+      content: >
+        Profiteer ook al voor de verkoop van een strikt financieel en commercieel regime
+    - title: No cure - No pay
+      content: >
+        U betaalt alleen wanneer uw onderneming ook daadwerkelijk verkocht wordt
+  button: Contact
+buyers:
+  title: Barnsby beschikt over een portefeuille met hoog renderende ondernemingen
+  subtitle: Kopers
+  image: Man met bon in hand
+  items:
+    - title: Diverse portefeuille met diverse bedrijven
+      content: >
+        Barnsby bemiddelt voor bedrijven uit verschillende verticals, maar allen, binnen hun segment, hoog renderend
+    - title: Goed gestructureerd
+      content: >
+        Tijden het opstellen van het Informatiememorandum wordt ook de structuur en het management van de ter overname aangeboden onderneming doorgelicht
+    - title: Geen verkooppraatjes
+      content: >
+        Barnsby laat de feiten en cijfers voor zich spreken zonder franje
+steps:
+  title: Wij nemen de volgende stappen om uw organisatie te helpen
+  subtitle: Werkwijze
+  image: "Man met notificaties"
+  items:
+    - title: Verkoopmemorandum
+      content: >
+        Er wordt een verkoopmemorandum opgesteld, dat een goede weergave is van het verleden, 
+        de huidige staat en de verwachte ontwikkeling van de te verkopen onderneming
+    - title: Kopers gezocht
+      content: >
+        Er worden kopers gezocht die geïnteresseerd zijn in het overnemen van het geheel 
+        of een gedeelte van de ter verkoop aangeboden onderneming en/of assets
+    - title: Geheimhoudingsverklaring
+      content: >
+        Er wordt een geheimhoudingsverklaring opgesteld en getekend door de eventuele koper
+    - title: Waarde optimalisatie
+      content: >
+        Cliënt wordt naar vol vermogen bijgestaan bij de gesprekken met mogelijke kopers 
+        en de door de hen ingeschakelde deskundigen
+    - title: Onderhandelen met kopers
+      content: >
+        Cliënt wordt naar vol vermogen bijgestaan bij de onderhandelingen met mogelijke kopers. 
+        Dit met het expliciete doel een optimaal resultaat voor cliënt te behalen
+    - title: Vastleggen verkoopakte
+      content: >
+        Cliënt wordt naar vol vermogen bijgestaan bij het vastleggen van de afspraken met koper in een verkoopakte 
+        en het opstellen van de daarbij behorende stukken
+coaching:
+  title: Coaching van ondernemers, directie en hoger management
+  subtitle: Coaching
+  image: Man met post-its en grafiek
+  text: >
+    De consultants van Barnsby hebben een ruime ervaring in het begeleiden van management op alle niveaus.
+    Barnsby brengt ruime internationale ervaring mee met vraagstukken zoals:
+  items:
+    - snelle gecontroleerde groei
+    - sparring
+    - personeel
+    - starten nieuwe activiteiten
+    - organisatie opbouw
+    - finance
+    - kostenbeheersing
+contact:
+  title: Zo kun je ons bereiken
+  partners: Managing Partners
+  footer: |
+    Ontworpen en ontwikkeld door:
