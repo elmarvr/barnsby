@@ -9,6 +9,4 @@ module.exports = withYAML({
 
     return config;
   },
-  basePath: "/barnsby-next",
-  assetPrefix: "/barnsby-next/",
 });
