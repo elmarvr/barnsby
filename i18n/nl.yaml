@@ -67,7 +67,7 @@ buyers:
 steps:
   title: Wij nemen de volgende stappen om uw organisatie te helpen
   subtitle: Werkwijze
-  image: "Man met notificaties"
+  image: Man met notificaties
   items:
     - title: Verkoopmemorandum
       content: >
@@ -108,7 +108,7 @@ coaching:
     - finance
     - kostenbeheersing
 contact:
-  title: Zo kun je ons bereiken
+  title: Zo kunt u ons bereiken
   partners: Managing Partners
   footer: |
     Ontworpen en ontwikkeld door:
